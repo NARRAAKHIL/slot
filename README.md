@@ -138,8 +138,10 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![Screenshot (9)](https://github.com/NARRAAKHIL/slot/assets/144979843/dd5fee35-f3aa-4fd5-b72c-57e7c86af966)
 
-![alt text](<Screenshot (6).png>)
+
+
 
 
 ## RESULT
